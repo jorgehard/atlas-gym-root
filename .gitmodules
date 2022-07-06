@@ -1,0 +1,3 @@
+[submodule "modules/atlas-gym-mfe-dashboard"]
+	path = modules/atlas-gym-mfe-dashboard
+	url = https://github.com/jorgehard/atlas-gym-mfe-dashboard.git
